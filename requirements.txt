@@ -1,5 +1,4 @@
 torch
-os
 split-folder
 streamlit
 torchvision
