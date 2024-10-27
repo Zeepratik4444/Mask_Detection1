@@ -3,4 +3,3 @@ split-folder
 streamlit
 torchvision
 pillow
-typing
