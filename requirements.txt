@@ -4,4 +4,3 @@ streamlit
 torchvision
 pillow
 typing
-timeit
