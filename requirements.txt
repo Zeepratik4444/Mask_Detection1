@@ -1,0 +1,9 @@
+torch
+sklearn
+os
+split-folder
+streamlit
+torchvision
+PIL
+typing
+timeit
