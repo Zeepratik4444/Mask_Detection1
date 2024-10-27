@@ -9,7 +9,7 @@ model= resnet50()
 
 device='cuda' if torch.cuda.is_available() else 'cpu'
 
-saved_model=torch.load(r'mask_detection_resnet60_50epochs_model.pth',
+saved_model=torch.load(r'mask_detection_resnet50_50epochs_model.pth.pth',
                        map_location=torch.device(device))
 
 model.load_state_dict(saved_model)
