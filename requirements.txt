@@ -2,6 +2,6 @@ torch
 split-folder
 streamlit
 torchvision
-PIL
+pillow
 typing
 timeit
