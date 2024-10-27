@@ -1,5 +1,4 @@
 torch
-scikit-learn
 os
 split-folder
 streamlit
